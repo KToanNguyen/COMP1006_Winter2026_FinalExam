@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bake It Til You Make It!  </title>
+    <title>Gallery of Nobody  </title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
 </head>
 
@@ -39,11 +39,11 @@
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link" href="products.php">View Images</a>
+                            <a class="nav-link" href="images.php">View Images</a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link" href="add-product.php">Add Image</a>
+                            <a class="nav-link" href="add-image.php">Add Image</a>
                         </li>
 
                         <li class="nav-item">

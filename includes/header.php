@@ -35,7 +35,7 @@
                     <ul class="navbar-nav ms-auto">
 
                         <li class="nav-item">
-                            <a class="nav-link" href="index.php">Home</a>
+                            <a class="nav-link" href="add-image.php">Home</a>
                         </li>
 
                         </li>
@@ -43,6 +43,11 @@
                         <li class="nav-item">
                             <a class="nav-link" href="#">Contact</a>
                         </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link" href="register.php">Register</a>
+                        </li>
+
                         <li class="nav-item">
                             <a class="nav-link" href="login.php">Login</a>
                         </li>
